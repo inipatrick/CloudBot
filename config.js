@@ -13,9 +13,9 @@ global.ownernumber = process.env.NOWNER
 global.owner = [
   ['0'],
   ['0'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
+  [`${process.env.621364218561}`, `${process.env.FadilsMC}`, true]
   // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+] // 621364218561
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = process.env.MNN-MD
+global.author = process.env.FadilsMC
 
 global.multiplier = 69 // The higher, The harder levelup
 
